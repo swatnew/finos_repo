@@ -1,0 +1,4 @@
+jsonformer==1.6.4
+instructor==1.3
+openai==1.54.4
+schedule= 1.2.2
