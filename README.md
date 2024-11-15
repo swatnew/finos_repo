@@ -23,3 +23,7 @@
 - [Python + openai] - Open AI based tool to read .ts file and generate json schema 
 
 
+## Pre-requisite
+- Python setup required
+- Python packages needs to be installed
+- Open AI account required as it call api which needs api key
