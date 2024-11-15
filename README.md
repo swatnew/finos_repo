@@ -27,3 +27,7 @@
 - Python setup required
 - Python packages needs to be installed
 - Open AI account required as it call api which needs api key
+
+  ## Notes
+  - Using AI to generate schemas can be a great starting point, offering speed and consistency.
+  - However, it should be complemented with human expertise to ensure accuracy and adaptability to specific needs.
