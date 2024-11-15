@@ -1,3 +1,4 @@
+# Open AI tool to generate schemaJson referring to ContextTypes.ts file
 
 
 import instructor
