@@ -4,7 +4,7 @@
 
 - ✨OPEN AI + FINOS  ✨
 
-## STEPS TO EXECUTE
+## Installation
 
 - Install packages from requirement.txt
 - Create python virtual enviornment and activate the enviornment
