@@ -2,7 +2,7 @@
 
 
 
-- ✨OPEN AI + FINOS Magic ✨
+- ✨OPEN AI + FINOS  ✨
 
 ## STEPS TO EXECUTE
 
