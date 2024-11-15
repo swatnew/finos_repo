@@ -1,12 +1,10 @@
 
 
 import instructor
-
 from openai import OpenAI
 import json
 import schedule
 import time
-
 
 
 # Define path of json file containting updated types 
