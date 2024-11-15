@@ -14,7 +14,7 @@
 - destination folder where new jsonSchemas to be generated
 - start main.py file using python main.py command
 
-## - [Features]
+## Feature
 - This is a JsonSchema generator tool using scheduled job to read updated types from typescipt file and convert into jsonSchema
 
 
